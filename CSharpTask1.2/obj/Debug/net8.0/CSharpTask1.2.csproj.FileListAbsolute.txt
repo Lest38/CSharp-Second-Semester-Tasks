@@ -1,0 +1,15 @@
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\bin\Debug\net8.0\CSharpTask1.2.exe
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\bin\Debug\net8.0\CSharpTask1.2.deps.json
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\bin\Debug\net8.0\CSharpTask1.2.runtimeconfig.json
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\bin\Debug\net8.0\CSharpTask1.2.dll
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\bin\Debug\net8.0\CSharpTask1.2.pdb
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\CSharpTask1.2.GeneratedMSBuildEditorConfig.editorconfig
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\CSharpTask1.2.AssemblyInfoInputs.cache
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\CSharpTask1.2.AssemblyInfo.cs
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\CSharpTask1.2.csproj.CoreCompileInputs.cache
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\CSharpTask1.2.sourcelink.json
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\CSharpTask1.2.dll
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\refint\CSharpTask1.2.dll
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\CSharpTask1.2.pdb
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\CSharpTask1.2.genruntimeconfig.cache
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask1.2\obj\Debug\net8.0\ref\CSharpTask1.2.dll
