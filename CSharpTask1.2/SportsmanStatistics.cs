@@ -7,6 +7,11 @@ namespace CSharpTask1._2
     {
         private readonly Sportsman[] _sportsmen = sportsmen;
 
+        /// <summary>
+        /// Finds sportsmen between min and max birthyear and prints their average competition results
+        /// </summary>
+        /// <param name="minBirthYear"></param>
+        /// <param name="maxBirthYear"></param>
         public void PrintAverageCompetitionResult(int minBirthYear, int maxBirthYear)
         {
             int totalSum = 0, count = 0;
@@ -29,6 +34,10 @@ namespace CSharpTask1._2
             Console.WriteLine($"Средний результат: {totalSum / (double)count:F2}");
         }
 
+        /// <summary>
+        /// Prints sportsmen's names whose results are lower than given number
+        /// </summary>
+        /// <param name="minResult"></param>
         public void PrintLowResults(int minResult)
         {
             var filteredSportsmen = _sportsmen

@@ -5,6 +5,11 @@
         private int[] array = [];
         public int[] GetArray() { return array; }
 
+        /// <summary>
+        /// Method validates input, checks if empty, tries to parse to int
+        /// </summary>
+        /// <param name="prompt"></param>
+        /// <returns></returns>
         private static int GetValidInput(string prompt)
         {
             while (true)
@@ -19,6 +24,10 @@
             }
         }
 
+        /// <summary>
+        /// Creates and fills an array of Sportsman object from user input
+        /// </summary>
+        /// <returns></returns>
         public void WriteArray()
         {
             int arrayLength = GetValidInput("Введите длину массива: ");
@@ -30,6 +39,9 @@
             }
         }
 
+        /// <summary>
+        /// Prints int array elements
+        /// </summary>
         public void ReadArray()
         {
             for (int i = 0; i < array.Length; i++)
@@ -39,6 +51,10 @@
             Console.WriteLine();
         }
 
+        /// <summary>
+        /// Finds minimum and maximum values in array
+        /// </summary>
+        /// <returns></returns>
         private (int, int) FindMinMax()
         {
             int min = int.MaxValue;
@@ -61,6 +77,10 @@
             return (minIndex, maxIndex);
         }
 
+        /// <summary>
+        /// Finds a number of zeroes between minimum and maximum values of array
+        /// </summary>
+        /// <returns></returns>
         public int FindZeroBetweenMinMax()
         {
             (int minIndex, int maxIndex) = FindMinMax();
@@ -75,6 +95,13 @@
             return counter;
         }
 
+        /// <summary>
+        /// Solves a required function
+        /// </summary>
+        /// <param name="a"></param>
+        /// <param name="b"></param>
+        /// <param name="c"></param>
+        /// <exception cref="ArgumentException"></exception>
         public static void SolveFunction(int a, int b, int c)
         {
             if (a + b == 0)
