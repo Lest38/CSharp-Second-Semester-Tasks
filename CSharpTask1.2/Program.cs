@@ -1,14 +1,18 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.Linq;
+﻿using CSharpTask1._2;
 
 namespace CSharpTask1._2
 {
-    internal static class Program
+    internal class Program
     {
         static void Main()
         {
-            Sportsman[] sportsmen = Sportsman.MakeArray();
+            InputValidator validator = new();
+            SportsmanInput inputHandler = new(validator);
+            Sportsman[] sportsmen = inputHandler.CreateSportsmenArray();
+
+            SportsmanManager manager = new(sportsmen);
+            SportsmanStatistics statistics = new(sportsmen);
+
             while (true)
             {
                 Console.WriteLine("\nВыберите действие:");
@@ -24,18 +28,18 @@ namespace CSharpTask1._2
                 {
                     case "1":
                         Console.WriteLine("\nСписок спортсменов:");
-                        Sportsman.PrintSortedSportsmen(sportsmen);
+                        manager.PrintSortedSportsmen();
                         break;
 
                     case "2":
-                        int minYear = InputValidator.GetValidInput("\nВведите минимальный год рождения: ");
-                        int maxYear = InputValidator.GetValidInput("Введите максимальный год рождения: ");
-                        Sportsman.PrintAverageCompetitionResult(minYear, maxYear, sportsmen);
+                        int minYear = validator.GetValidInput("\nВведите минимальный год рождения: ");
+                        int maxYear = validator.GetValidInput("Введите максимальный год рождения: ");
+                        statistics.PrintAverageCompetitionResult(minYear, maxYear);
                         break;
 
                     case "3":
-                        int minResult = InputValidator.GetValidInput("\nВведите минимальный удовлетворительный результат: ");
-                        Sportsman.PrintLowResults(sportsmen, minResult);
+                        int minResult = validator.GetValidInput("\nВведите минимальный удовлетворительный результат: ");
+                        statistics.PrintLowResults(minResult);
                         break;
 
                     case "4":
@@ -48,5 +52,6 @@ namespace CSharpTask1._2
                 }
             }
         }
+
     }
 }

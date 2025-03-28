@@ -3,13 +3,22 @@
   "WorkspaceRootPath": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\sportsmanstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\sportsmanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\sportsmaninput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\sportsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\sportsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\inputvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,38 +45,77 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SportsmanStatistics.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\SportsmanStatistics.cs",
+              "RelativeDocumentMoniker": "..\\CSharpTask1.2\\SportsmanStatistics.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\SportsmanStatistics.cs*",
+              "RelativeToolTip": "..\\CSharpTask1.2\\SportsmanStatistics.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:06:00.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SportsmanInput.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\SportsmanInput.cs",
+              "RelativeDocumentMoniker": "..\\CSharpTask1.2\\SportsmanInput.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\SportsmanInput.cs*",
+              "RelativeToolTip": "..\\CSharpTask1.2\\SportsmanInput.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T14:02:14.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SportsmanManager.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\SportsmanManager.cs",
+              "RelativeDocumentMoniker": "..\\CSharpTask1.2\\SportsmanManager.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\SportsmanManager.cs*",
+              "RelativeToolTip": "..\\CSharpTask1.2\\SportsmanManager.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T13:57:47.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "InputValidator.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\InputValidator.cs",
               "RelativeDocumentMoniker": "..\\CSharpTask1.2\\InputValidator.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\InputValidator.cs",
-              "RelativeToolTip": "..\\CSharpTask1.2\\InputValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\InputValidator.cs*",
+              "RelativeToolTip": "..\\CSharpTask1.2\\InputValidator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T15:53:30.45Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Sportsman.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Sportsman.cs",
               "RelativeDocumentMoniker": "..\\CSharpTask1.2\\Sportsman.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Sportsman.cs",
-              "RelativeToolTip": "..\\CSharpTask1.2\\Sportsman.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Sportsman.cs*",
+              "RelativeToolTip": "..\\CSharpTask1.2\\Sportsman.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T00:21:54.474Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Program.cs",
               "RelativeDocumentMoniker": "..\\CSharpTask1.2\\Program.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Program.cs",
-              "RelativeToolTip": "..\\CSharpTask1.2\\Program.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAASwCQAAAA3AAAAAAAAAA==",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Program.cs*",
+              "RelativeToolTip": "..\\CSharpTask1.2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-24T00:18:41.186Z",
               "EditorCaption": ""
