@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace CSharpTask1._2
 {
-    internal static class InputValidator
+    internal class InputValidator
     {
-        public static int GetValidInput(string prompt)
+        public int GetValidInput(string prompt)
         {
             while (true)
             {
