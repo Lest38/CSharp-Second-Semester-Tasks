@@ -8,6 +8,11 @@ namespace CSharpTask1._2
 {
     internal class InputValidator
     {
+        /// <summary>
+        /// Method validates input, checks if empty, tries to parse to int
+        /// </summary>
+        /// <param name="prompt"></param>
+        /// <returns></returns>
         public int GetValidInput(string prompt)
         {
             while (true)

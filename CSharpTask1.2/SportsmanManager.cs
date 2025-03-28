@@ -6,12 +6,18 @@ namespace CSharpTask1._2
     {
         private readonly Sportsman[] _sportsmen = sportsmen;
 
+        /// <summary>
+        /// Sorts Sportsman objects by their names in alphabetic order (ascending)
+        /// </summary>
         public void SortSportsmenByName()
         {
             Array.Sort(_sportsmen, (s1, s2) =>
                 string.Compare(s1.SecondName, s2.SecondName, StringComparison.OrdinalIgnoreCase));
         }
 
+        /// <summary>
+        /// Sorts a Sportsman class by their names in alphabetic order (ascending). Prints their names and results
+        /// </summary>
         public void PrintSortedSportsmen()
         {
             SortSportsmenByName();
