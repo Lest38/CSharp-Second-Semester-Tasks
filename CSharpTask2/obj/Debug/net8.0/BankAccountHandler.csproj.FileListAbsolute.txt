@@ -1,0 +1,15 @@
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\bin\Debug\net8.0\BankAccountHandler.exe
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\bin\Debug\net8.0\BankAccountHandler.deps.json
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\bin\Debug\net8.0\BankAccountHandler.runtimeconfig.json
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\bin\Debug\net8.0\BankAccountHandler.dll
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\bin\Debug\net8.0\BankAccountHandler.pdb
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\BankAccountHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\BankAccountHandler.AssemblyInfoInputs.cache
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\BankAccountHandler.AssemblyInfo.cs
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\BankAccountHandler.csproj.CoreCompileInputs.cache
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\BankAccountHandler.sourcelink.json
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\BankAccountHandler.dll
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\refint\BankAccountHandler.dll
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\BankAccountHandler.pdb
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\BankAccountHandler.genruntimeconfig.cache
+D:\progr2\vs\CSharp-Second-Semester-Tasks\CSharpTask2\obj\Debug\net8.0\ref\BankAccountHandler.dll
