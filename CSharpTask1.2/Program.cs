@@ -9,7 +9,6 @@ namespace CSharpTask1._2
             InputValidator validator = new();
             SportsmanInput inputHandler = new(validator);
             Sportsman[] sportsmen = inputHandler.CreateSportsmenArray();
-
             SportsmanManager manager = new(sportsmen);
             SportsmanStatistics statistics = new(sportsmen);
 
