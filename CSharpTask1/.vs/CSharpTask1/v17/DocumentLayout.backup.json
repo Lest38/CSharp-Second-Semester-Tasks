@@ -3,32 +3,22 @@
   "WorkspaceRootPath": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68908E8D-974B-4612-AA02-33A84C572D51}|..\\CSharpTask2\\CSharpTask2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2\\bankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68908E8D-974B-4612-AA02-33A84C572D51}|..\\CSharpTask2\\BankAccountHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68908E8D-974B-4612-AA02-33A84C572D51}|..\\CSharpTask2\\CSharpTask2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68908E8D-974B-4612-AA02-33A84C572D51}|..\\CSharpTask2\\BankAccountHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2\\bankaccountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68908E8D-974B-4612-AA02-33A84C572D51}|..\\CSharpTask2\\CSharpTask2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2\\accountnumbeergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68908E8D-974B-4612-AA02-33A84C572D51}|..\\CSharpTask2\\BankAccountHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68908E8D-974B-4612-AA02-33A84C572D51}|..\\CSharpTask2\\CSharpTask2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\CSharpTask2.1.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\grademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\CSharpTask2.1.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\CSharpTask2.1.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F59A35B3-512A-4010-90D3-6CB6B09853A9}|CSharpTask1.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F59A35B3-512A-4010-90D3-6CB6B09853A9}|CSharpTask1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\studenthandler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39925B75-650D-40E2-82E7-3DFA4D374B22}|..\\CSharpTask1.2\\CSharpTask1.2.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1.2\\sportsman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -41,145 +31,105 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BankAccountManager.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\BankAccountManager.cs",
               "RelativeDocumentMoniker": "..\\CSharpTask2\\BankAccountManager.cs",
               "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\BankAccountManager.cs",
               "RelativeToolTip": "..\\CSharpTask2\\BankAccountManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:51:22.342Z",
+              "WhenOpened": "2025-04-01T10:02:57.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CSharpTask2\\Program.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\Program.cs",
+              "RelativeToolTip": "..\\CSharpTask2\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:43:19.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "BankAccount.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\BankAccount.cs",
               "RelativeDocumentMoniker": "..\\CSharpTask2\\BankAccount.cs",
               "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\BankAccount.cs",
               "RelativeToolTip": "..\\CSharpTask2\\BankAccount.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T22:54:44.893Z",
+              "WhenOpened": "2025-04-01T09:43:30.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentHandler",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\StudentHandler.csproj",
+              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\StudentHandler.csproj",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\StudentHandler.csproj",
+              "RelativeToolTip": "..\\CSharpTask2.1\\StudentHandler.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-01T09:42:27.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Student.cs",
+              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\Student.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Student.cs",
+              "RelativeToolTip": "..\\CSharpTask2.1\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:37:16.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2\\Program.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\Program.cs",
-              "RelativeToolTip": "..\\CSharpTask2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:43:37.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountNumbeerGenerator.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\AccountNumbeerGenerator.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2\\AccountNumbeerGenerator.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\AccountNumbeerGenerator.cs",
-              "RelativeToolTip": "..\\CSharpTask2\\AccountNumbeerGenerator.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:08:20.204Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GradeManager.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\GradeManager.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\GradeManager.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\GradeManager.cs",
-              "RelativeToolTip": "..\\CSharpTask2.1\\GradeManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:34:12.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Program.cs",
               "RelativeDocumentMoniker": "..\\CSharpTask2.1\\Program.cs",
               "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Program.cs",
               "RelativeToolTip": "..\\CSharpTask2.1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:31:39.952Z",
+              "WhenOpened": "2025-04-01T09:37:12.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Student.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\Student.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Student.cs",
-              "RelativeToolTip": "..\\CSharpTask2.1\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:32:01.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Program.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask1.2\\Program.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Program.cs",
-              "RelativeToolTip": "..\\CSharpTask1.2\\Program.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:43:48.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:43:42.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
               "Title": "Sportsman.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Sportsman.cs",
               "RelativeDocumentMoniker": "..\\CSharpTask1.2\\Sportsman.cs",
               "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Sportsman.cs",
               "RelativeToolTip": "..\\CSharpTask1.2\\Sportsman.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T23:30:26.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T08:40:37.817Z"
             }
           ]
         }

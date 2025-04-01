@@ -1,6 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharpTask2.1",
+    "\\CSharpTask2.1\\obj\\Debug",
+    "\\CSharpTask2.1\\obj\\Debug\\net8.0",
+    "\\CSharpTask2.1\\obj\\Debug\\net8.0\\ref",
+    "\\CSharpTask2.1\\obj\\Debug\\net8.0\\refint",
+    "\\CSharpTask2.1\\obj\\Release",
+    "\\CSharpTask2.1\\obj\\Release\\net8.0",
+    "\\CSharpTask2.1\\obj\\Release\\net8.0\\ref",
+    "\\CSharpTask2.1\\obj\\Release\\net8.0\\refint"
   ],
+  "SelectedNode": "\\CSharpTask2.1\\Student.cs",
   "PreviewInSolutionExplorer": false
 }

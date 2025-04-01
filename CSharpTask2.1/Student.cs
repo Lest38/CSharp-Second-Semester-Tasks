@@ -7,21 +7,42 @@ namespace StudentHandler
     class Student
     {
         public string Name { get; }
-        private GradeManager gradeManager;
+        private List<int> grades = [];
 
-        public Student(string name)
+        public Student(string? name)
         {
             if (string.IsNullOrWhiteSpace(name))
                 throw new ArgumentException("Имя студента не может быть пустым.");
 
             Name = name;
-            gradeManager = new GradeManager();
         }
 
-        public void AddGrade(int grade) => gradeManager.AddGrade(grade);
-        public double GetAverageGrade() => gradeManager.GetAverageGrade();
-        public List<int> GetAllGrades() => gradeManager.GetAllGrades();
-        public void RemoveLowestGrade() => gradeManager.RemoveLowestGrade();
+        public void AddGrade(int grade)
+        {
+            if (grade < 1 || grade > 10)
+                throw new ArgumentException("Оценка должна быть в диапазоне от 1 до 10.");
+
+            grades.Add(grade);
+        }
+
+        public double GetAverageGrade()
+        {
+            return grades.Count > 0 ? grades.Average() : 0.0;
+        }
+
+        public List<int> GetAllGrades()
+        {
+            return new List<int>(grades);
+        }
+
+        public void RemoveLowestGrade()
+        {
+            if (grades.Count > 0)
+            {
+                int minGrade = grades.Min();
+                grades.Remove(minGrade);
+            }
+        }
     }
 
 }
