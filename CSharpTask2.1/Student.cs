@@ -12,7 +12,7 @@ namespace StudentHandler
         public Student(string? name)
         {
             if (string.IsNullOrWhiteSpace(name))
-                throw new ArgumentException("Имя студента не может быть пустым.");
+                throw new ArgumentException("Student's name can't be empty");
 
             Name = name;
         }
@@ -20,7 +20,7 @@ namespace StudentHandler
         public void AddGrade(int grade)
         {
             if (grade < 1 || grade > 10)
-                throw new ArgumentException("Оценка должна быть в диапазоне от 1 до 10.");
+                throw new ArgumentException("Grade should be from 1 to 10.");
 
             grades.Add(grade);
         }
