@@ -11,6 +11,13 @@ namespace BankAccountHandler
         public string OwnerName => _ownerName;
         public decimal Balance => _balance;
 
+        /// <summary>
+        /// Constructor for the BankAccount class.
+        /// </summary>
+        /// <param name="ownerName"></param>
+        /// <param name="startingBalance"></param>
+        /// <exception cref="ArgumentException"></exception>
+        /// <exception cref="ArgumentOutOfRangeException"></exception>
         public BankAccount(string ownerName, decimal startingBalance)
         {
             if (string.IsNullOrWhiteSpace(ownerName))
@@ -24,6 +31,11 @@ namespace BankAccountHandler
             _balance = startingBalance;
         }
 
+        /// <summary>
+        /// Deposits a specified amount into the account.
+        /// </summary>
+        /// <param name="amount"></param>
+        /// <exception cref="ArgumentOutOfRangeException"></exception>
         public void Deposit(decimal amount)
         {
             if (amount <= 0)
@@ -32,6 +44,12 @@ namespace BankAccountHandler
             _balance += amount;
         }
 
+        /// <summary>
+        /// Withdraws a specified amount from the account.
+        /// </summary>
+        /// <param name="amount"></param>
+        /// <exception cref="ArgumentOutOfRangeException"></exception>
+        /// <exception cref="InvalidOperationException"></exception>
         public void Withdraw(decimal amount)
         {
             if (amount <= 0)
@@ -43,6 +61,10 @@ namespace BankAccountHandler
             _balance -= amount;
         }
 
+        /// <summary>
+        /// Returns account information including owner name, balance, and account number.
+        /// </summary>
+        /// <returns></returns>
         public string GetAccountInfo()
         {
             return $"Account Owner: {_ownerName}, Balance: {_balance:C}, Account Number: {_accountNumber}";

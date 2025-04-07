@@ -1,10 +1,13 @@
 ﻿using BankAccountHandler;
-using System;
 
 namespace CSharpTask2
 {
     internal class BankAccountManager
     {
+        /// <summary>
+        /// Initializes a new bank account by asking the user's name and initial balance.
+        /// </summary>
+        /// <returns></returns>
         public BankAccount InitializeAccount()
         {
             Console.Write("Enter owner name: ");

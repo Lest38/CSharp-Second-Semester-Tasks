@@ -8,12 +8,18 @@ namespace CSharpTask2
         private BankAccount _account;
         private readonly BankAccountManager _accountManager;
 
+        /// <summary>
+        /// Constructor for the Program class.
+        /// </summary>
         public Program()
         {
             _accountManager = new BankAccountManager();
             _account = _accountManager.InitializeAccount();
         }
 
+        /// <summary>
+        /// Main loop of the program that displays options to the user and processes their input.
+        /// </summary>
         public void Run()
         {
             while (true)
@@ -30,6 +36,10 @@ namespace CSharpTask2
             }
         }
 
+        /// <summary>
+        /// Processes the user's choice based on the input.
+        /// </summary>
+        /// <param name="choice"></param>
         private void ProcessUserChoice(string choice)
         {
             switch (choice)
@@ -56,6 +66,9 @@ namespace CSharpTask2
             }
         }
 
+        /// <summary>
+        /// Prompts the user to enter a deposit amount and processes the deposit.
+        /// </summary>
         private void DepositMoney()
         {
             Console.Write("Enter deposit amount: ");
@@ -70,6 +83,9 @@ namespace CSharpTask2
             }
         }
 
+        /// <summary>
+        /// Prompts the user to enter a withdrawal amount and processes the withdrawal.
+        /// </summary>
         private void WithdrawMoney()
         {
             Console.Write("Enter withdrawal amount: ");
@@ -91,17 +107,26 @@ namespace CSharpTask2
             }
         }
 
+        /// <summary>
+        /// Displays the account information including owner name and balance.
+        /// </summary>
         private void DisplayAccountInfo()
         {
             Console.WriteLine("\n" + _account.GetAccountInfo());
         }
 
+        /// <summary>
+        /// Exits the program with a goodbye message.
+        /// </summary>
         private static void ExitProgram()
         {
             Console.WriteLine("Exiting the program. Goodbye!");
             Environment.Exit(0);
         }
 
+        /// <summary>
+        /// Main method that serves as the entry point for the program.
+        /// </summary>
         public static void Main()
         {
             Program program = new();

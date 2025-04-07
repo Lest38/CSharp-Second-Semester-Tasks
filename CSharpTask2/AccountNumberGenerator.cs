@@ -5,6 +5,12 @@ namespace BankAccountHandler
 {
     internal class AccountNumberGenerator
     {
+        /// <summary>
+        /// Generates a random account number of the specified length.
+        /// </summary>
+        /// <param name="length"></param>
+        /// <returns></returns>
+        /// <exception cref="ArgumentOutOfRangeException"></exception>
         public static long GenerateAccountNumber(int length = 9)
         {
             if (length < 1 || length > 9)

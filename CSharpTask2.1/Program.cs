@@ -4,10 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+ * This code is a simple console application that allows the user to manage a student's grades.
+ * The user can add grades, view all grades, calculate the average grade, and remove the lowest grade.
+ * The program uses exception handling to catch any errors that may occur during execution.
+ */
+
 namespace StudentHandler
 {
     class Program
     {
+        /// <summary>
+        /// Main method that serves as the entry point for the application.
+        /// </summary>
         static void Main()
         {
             try
@@ -42,7 +51,7 @@ namespace StudentHandler
                             }
                             break;
                         case "2":
-                            Console.WriteLine("Grades: " + string.Join(", ", student.GetAllGrades()));
+                            Console.WriteLine($"Grades: {string.Join(", ", student.GetAllGrades()) ?? "no grades found"}");
                             break;
                         case "3":
                             Console.WriteLine("Average grade: " + student.GetAverageGrade());
@@ -66,3 +75,5 @@ namespace StudentHandler
         }
     }
 }
+
+
