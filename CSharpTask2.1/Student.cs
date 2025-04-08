@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace StudentHandler
 {
-    class Student
+    public class Student
     {
         public string Name { get; }
         private List<int> grades = [];
