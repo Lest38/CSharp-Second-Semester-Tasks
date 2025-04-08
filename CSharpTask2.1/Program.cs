@@ -12,31 +12,30 @@ using System.Threading.Tasks;
 
 namespace StudentHandler
 {
+    /// <summary>
+    /// Main program class that initializes the student and handles user input.
+    /// </summary>
     public class Program
     {
         private Student student;
-        private Dictionary<string, IStudentActionStrategy> actions;
+        private StudentActionHandler handler;
 
         /// <summary>
-        /// Constructor that initializes the student object and the strategies.
+        /// Constructor for the Program class.
         /// </summary>
+        /// <exception cref="ArgumentException"></exception>
         public Program()
         {
             Console.Write("Enter the student's name: ");
             string? name = Console.ReadLine();
+            if (string.IsNullOrWhiteSpace(name))
+                throw new ArgumentException("Student's name can't be empty");
             student = new Student(name);
-
-            actions = new Dictionary<string, IStudentActionStrategy>
-        {
-            { "1", new AddGradeStrategy() },
-            { "2", new ShowGradesStrategy() },
-            { "3", new ShowAverageStrategy() },
-            { "4", new RemoveLowestGradeStrategy() }
-        };
+            handler = new StudentActionHandler();
         }
 
         /// <summary>
-        /// Runs the menu loop with the user being able to select actions.
+        /// Main loop of the program that displays options and uses user's input.
         /// </summary>
         public void RunMenuLoop()
         {
@@ -51,24 +50,31 @@ namespace StudentHandler
                 Console.Write("Select an option: ");
 
                 string choice = Console.ReadLine() ?? "nullInput";
-                if (actions.ContainsKey(choice))
+                switch (choice)
                 {
-                    actions[choice].Execute(student);
-                }
-                else if (choice == "5")
-                {
-                    return;
-                }
-                else
-                {
-                    Console.WriteLine("Invalid choice. Try again.");
+                    case "1":
+                        handler.AddGrade(student);
+                        break;
+                    case "2":
+                        handler.ShowGrades(student);
+                        break;
+                    case "3":
+                        handler.ShowAverage(student);
+                        break;
+                    case "4":
+                        handler.RemoveLowestGrade(student);
+                        break;
+                    case "5":
+                        return;
+                    default:
+                        Console.WriteLine("Invalid choice. Try again.");
+                        break;
                 }
             }
         }
 
-
         /// <summary>
-        /// Main method that serves as the entry point for the program.
+        /// Main entry point of the program.
         /// </summary>
         static void Main()
         {

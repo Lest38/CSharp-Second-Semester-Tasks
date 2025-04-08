@@ -3,6 +3,12 @@
   "WorkspaceRootPath": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\studentactionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -10,24 +16,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{68908E8D-974B-4612-AA02-33A84C572D51}|..\\CSharpTask2\\BankAccountHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\removelowestgradestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\showaveragestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\showgradesstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\addgradestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\istudentactionstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1786BF75-9512-4B9E-A8B1-AA04B3BCD7C3}|..\\CSharpTask2.1\\StudentHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask2.1\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F59A35B3-512A-4010-90D3-6CB6B09853A9}|CSharpTask1.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\csharptask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -45,86 +33,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RemoveLowestGradeStrategy.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\RemoveLowestGradeStrategy.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\RemoveLowestGradeStrategy.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\RemoveLowestGradeStrategy.cs*",
-              "RelativeToolTip": "..\\CSharpTask2.1\\RemoveLowestGradeStrategy.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:22:42.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ShowAverageStrategy.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\ShowAverageStrategy.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\ShowAverageStrategy.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\ShowAverageStrategy.cs*",
-              "RelativeToolTip": "..\\CSharpTask2.1\\ShowAverageStrategy.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:22:18.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShowGradesStrategy.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\ShowGradesStrategy.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\ShowGradesStrategy.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\ShowGradesStrategy.cs*",
-              "RelativeToolTip": "..\\CSharpTask2.1\\ShowGradesStrategy.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:21:42.182Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddGradeStrategy.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\AddGradeStrategy.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\AddGradeStrategy.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\AddGradeStrategy.cs*",
-              "RelativeToolTip": "..\\CSharpTask2.1\\AddGradeStrategy.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:21:00.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IStudentActionStrategy.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\IStudentActionStrategy.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\IStudentActionStrategy.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\IStudentActionStrategy.cs*",
-              "RelativeToolTip": "..\\CSharpTask2.1\\IStudentActionStrategy.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T22:19:48.053Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Student.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\Student.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Student.cs*",
-              "RelativeToolTip": "..\\CSharpTask2.1\\Student.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:55:06.345Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -139,7 +49,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentActionHandler.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\StudentActionHandler.cs",
+              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\StudentActionHandler.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\StudentActionHandler.cs*",
+              "RelativeToolTip": "..\\CSharpTask2.1\\StudentActionHandler.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:32:48.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Student.cs",
+              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\Student.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Student.cs*",
+              "RelativeToolTip": "..\\CSharpTask2.1\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:55:06.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\Program.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Program.cs*",
+              "RelativeToolTip": "..\\CSharpTask2.1\\Program.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAwBYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:16:07.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2\\Program.cs",
               "RelativeDocumentMoniker": "..\\CSharpTask2\\Program.cs",
@@ -147,25 +96,11 @@
               "RelativeToolTip": "..\\CSharpTask2\\Program.cs",
               "ViewState": "AgIAAG8AAAAAAAAAAAAmwH8AAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:49:37.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T21:49:37.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\CSharpTask2.1\\Program.cs",
-              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Program.cs*",
-              "RelativeToolTip": "..\\CSharpTask2.1\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-07T21:16:07.459Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1.2\\Program.cs",
               "RelativeDocumentMoniker": "..\\CSharpTask1.2\\Program.cs",
@@ -173,12 +108,11 @@
               "RelativeToolTip": "..\\CSharpTask1.2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T18:26:55.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T18:26:55.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -190,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "ArrayClass.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask1\\ArrayClass.cs",
               "RelativeDocumentMoniker": "ArrayClass.cs",
