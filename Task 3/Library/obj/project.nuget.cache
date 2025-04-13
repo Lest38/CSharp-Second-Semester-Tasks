@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AmyGU+QgA2A=",
+  "success": true,
+  "projectFilePath": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task 3\\Library\\Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\256bit.by\\.nuget\\packages\\spectre.console\\0.49.1\\spectre.console.0.49.1.nupkg.sha512"
+  ],
+  "logs": []
+}
