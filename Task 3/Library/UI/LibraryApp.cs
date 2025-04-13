@@ -14,7 +14,7 @@ namespace Library.UI
         public class LibraryApp
         {
 
-            public static void Main(string[] args)
+            public void AppLoop()
             {
                 Console.WriteLine("Please select an option:");
                 Console.WriteLine("1. Add a printed book");
