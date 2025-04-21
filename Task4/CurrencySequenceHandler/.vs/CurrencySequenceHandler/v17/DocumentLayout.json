@@ -3,10 +3,18 @@
   "WorkspaceRootPath": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\",
   "Documents": [
     {
+<<<<<<< HEAD
+=======
+      "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\ui\\sentencehandlerapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\ui\\sentencehandlerapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+>>>>>>> Task 5
       "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\sentencehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\sentencehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -33,6 +41,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\isentenceextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\isentenceextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\services\\sentencefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\services\\sentencefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\services\\sentenceextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\services\\sentenceextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\services\\reversedsentence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\services\\reversedsentence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\services\\isentencetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\services\\isentencetransformer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\services\\isentencefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\services\\isentencefilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\services\\isentenceextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\services\\isentenceextractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\core\\sentencehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\core\\sentencehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\currencysequencehandler\\currencysequencehandler\\currencysequencehandler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{18E70EF3-296E-43E6-9110-7F05D51901BB}|CurrencySequenceHandler\\CurrencySequenceHandler.csproj|solutionrelative:currencysequencehandler\\currencysequencehandler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+>>>>>>> Task 5
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +82,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 4,
+=======
+          "SelectedChildIndex": 3,
+>>>>>>> Task 5
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,6 +102,7 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 2,
               "Title": "ReversedSentence.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\ReversedSentence.cs",
@@ -67,10 +112,22 @@
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T21:27:58.249Z",
+=======
+              "DocumentIndex": 0,
+              "Title": "SentenceHandlerApp.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\UI\\SentenceHandlerApp.cs",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\UI\\SentenceHandlerApp.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\UI\\SentenceHandlerApp.cs",
+              "RelativeToolTip": "CurrencySequenceHandler\\UI\\SentenceHandlerApp.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:13:24.324Z",
+>>>>>>> Task 5
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Program.cs",
@@ -78,12 +135,22 @@
               "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Program.cs*",
               "RelativeToolTip": "CurrencySequenceHandler\\Program.cs*",
               "ViewState": "AgIAABIAAAAAAAAAAAAYwBkAAAAsAAAAAAAAAA==",
+=======
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Program.cs",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\Program.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Program.cs",
+              "RelativeToolTip": "CurrencySequenceHandler\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+>>>>>>> Task 5
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T21:14:32.145Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 1,
               "Title": "SentenceHandler.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\SentenceHandler.cs",
@@ -93,16 +160,36 @@
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwAgAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T21:23:05.323Z",
+=======
+              "DocumentIndex": 3,
+              "Title": "SentenceExtractor.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\SentenceExtractor.cs",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\Services\\SentenceExtractor.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\SentenceExtractor.cs",
+              "RelativeToolTip": "CurrencySequenceHandler\\Services\\SentenceExtractor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:18:08.512Z",
+>>>>>>> Task 5
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 3,
               "Title": "SentenceFilter.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\SentenceFilter.cs",
               "RelativeDocumentMoniker": "CurrencySequenceHandler\\SentenceFilter.cs",
               "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\SentenceFilter.cs",
               "RelativeToolTip": "CurrencySequenceHandler\\SentenceFilter.cs",
+=======
+              "DocumentIndex": 2,
+              "Title": "SentenceFilter.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\SentenceFilter.cs",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\Services\\SentenceFilter.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\SentenceFilter.cs",
+              "RelativeToolTip": "CurrencySequenceHandler\\Services\\SentenceFilter.cs",
+>>>>>>> Task 5
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T21:20:50.351Z",
@@ -111,6 +198,7 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
+<<<<<<< HEAD
               "Title": "SentenceExtractor.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\SentenceExtractor.cs",
               "RelativeDocumentMoniker": "CurrencySequenceHandler\\SentenceExtractor.cs",
@@ -119,11 +207,22 @@
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T21:18:08.512Z",
+=======
+              "Title": "ReversedSentence.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\ReversedSentence.cs",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\Services\\ReversedSentence.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\ReversedSentence.cs",
+              "RelativeToolTip": "CurrencySequenceHandler\\Services\\ReversedSentence.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T21:27:58.249Z",
+>>>>>>> Task 5
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+<<<<<<< HEAD
               "Title": "ISentenceFilter.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\ISentenceFilter.cs",
               "RelativeDocumentMoniker": "CurrencySequenceHandler\\ISentenceFilter.cs",
@@ -132,11 +231,22 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T22:36:10.517Z",
+=======
+              "Title": "ISentenceTransformer.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\ISentenceTransformer.cs",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\Services\\ISentenceTransformer.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\ISentenceTransformer.cs",
+              "RelativeToolTip": "CurrencySequenceHandler\\Services\\ISentenceTransformer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:36:38.534Z",
+>>>>>>> Task 5
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+<<<<<<< HEAD
               "Title": "ISentenceTransformer.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\ISentenceTransformer.cs",
               "RelativeDocumentMoniker": "CurrencySequenceHandler\\ISentenceTransformer.cs",
@@ -145,20 +255,66 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T22:36:38.534Z",
+=======
+              "Title": "ISentenceFilter.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\ISentenceFilter.cs",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\Services\\ISentenceFilter.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\ISentenceFilter.cs",
+              "RelativeToolTip": "CurrencySequenceHandler\\Services\\ISentenceFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T22:36:10.517Z",
+>>>>>>> Task 5
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ISentenceExtractor.cs",
+<<<<<<< HEAD
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\ISentenceExtractor.cs",
               "RelativeDocumentMoniker": "CurrencySequenceHandler\\ISentenceExtractor.cs",
               "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\ISentenceExtractor.cs",
               "RelativeToolTip": "CurrencySequenceHandler\\ISentenceExtractor.cs",
+=======
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\ISentenceExtractor.cs",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\Services\\ISentenceExtractor.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\ISentenceExtractor.cs",
+              "RelativeToolTip": "CurrencySequenceHandler\\Services\\ISentenceExtractor.cs",
+>>>>>>> Task 5
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-21T22:35:11.569Z",
               "EditorCaption": ""
+<<<<<<< HEAD
+=======
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SentenceHandler.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Core\\SentenceHandler.cs",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\Core\\SentenceHandler.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Core\\SentenceHandler.cs",
+              "RelativeToolTip": "CurrencySequenceHandler\\Core\\SentenceHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T00:10:15.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CurrencySequenceHandler",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\CurrencySequenceHandler.csproj",
+              "RelativeDocumentMoniker": "CurrencySequenceHandler\\CurrencySequenceHandler.csproj",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\CurrencySequenceHandler.csproj",
+              "RelativeToolTip": "CurrencySequenceHandler\\CurrencySequenceHandler.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-22T00:09:42.376Z",
+              "EditorCaption": ""
+>>>>>>> Task 5
             }
           ]
         }

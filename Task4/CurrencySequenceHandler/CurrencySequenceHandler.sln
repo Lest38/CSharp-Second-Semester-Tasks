@@ -1,7 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
+<<<<<<< HEAD
 VisualStudioVersion = 17.13.35931.197 d17.13
+=======
+VisualStudioVersion = 17.13.35931.197
+>>>>>>> Task 5
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencySequenceHandler", "CurrencySequenceHandler\CurrencySequenceHandler.csproj", "{18E70EF3-296E-43E6-9110-7F05D51901BB}"
 EndProject
