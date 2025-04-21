@@ -1,0 +1,15 @@
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\bin\Debug\net8.0\CurrencySequenceHandler.exe
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\bin\Debug\net8.0\CurrencySequenceHandler.deps.json
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\bin\Debug\net8.0\CurrencySequenceHandler.runtimeconfig.json
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\bin\Debug\net8.0\CurrencySequenceHandler.dll
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\bin\Debug\net8.0\CurrencySequenceHandler.pdb
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\CurrencySequenceHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\CurrencySequenceHandler.AssemblyInfoInputs.cache
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\CurrencySequenceHandler.AssemblyInfo.cs
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\CurrencySequenceHandler.csproj.CoreCompileInputs.cache
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\CurrencySequenceHandler.sourcelink.json
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\CurrencySequenceHandler.dll
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\refint\CurrencySequenceHandler.dll
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\CurrencySequenceHandler.pdb
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\CurrencySequenceHandler.genruntimeconfig.cache
+D:\progr2\vs\CSharp-Second-Semester-Tasks\Task4\CurrencySequenceHandler\CurrencySequenceHandler\obj\Debug\net8.0\ref\CurrencySequenceHandler.dll

@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CSharpTask1.2",
-    "\\Task 3",
     "\\Task 3\\Library",
-    "\\Task 3\\Library\\Models"
+    "\\Task 3\\Library\\Models",
+    "\\Task 3\\Library\\Services",
+    "\\Task 3\\Library\\UI",
+    "\\Task4"
   ],
-  "SelectedNode": "\\CSharpTask1.2\\CSharpTask1.2.csproj",
+  "SelectedNode": "\\Task4",
   "PreviewInSolutionExplorer": false
 }
