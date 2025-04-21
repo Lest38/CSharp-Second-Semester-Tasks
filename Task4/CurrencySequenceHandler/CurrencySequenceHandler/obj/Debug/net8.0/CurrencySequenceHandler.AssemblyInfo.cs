@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurrencySequenceHandler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+68484a7d85dbc9b5aa0ac64f50815178ac1706a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e67b714039f9910fde23ef76b4c496a944805365")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurrencySequenceHandler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurrencySequenceHandler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
