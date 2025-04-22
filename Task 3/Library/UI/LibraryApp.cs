@@ -7,13 +7,17 @@ using System.Threading.Tasks;
 namespace Library.UI
 {
     using global::Library.Models;
-    using global::Library.Services;
 
     namespace Library
     {
+        /// <summary>
+        /// Class representing the library application.
+        /// </summary>
         public class LibraryApp
         {
-
+            /// <summary>
+            /// Main method to start the library application.
+            /// </summary>
             public void AppLoop()
             {
                 Console.WriteLine("Please select an option:");

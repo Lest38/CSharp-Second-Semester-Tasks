@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace Library.Models
 {
-    internal class PrintedBook: Book
+    /// <summary>
+    /// Class representing a printed book, inheriting from the Book class.
+    /// </summary>
+    internal class PrintedBook : Book
     {
+        /// <summary>
+        /// Displays information about the printed book.
+        /// </summary>
         public override void DisplayInfo()
         {
             Console.WriteLine(this.GetType().Name);
