@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\gamehandler\\gamehandler\\core\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|solutionrelative:gamehandler\\core\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\gamehandler\\gamehandler\\modules\\games\\pcgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|solutionrelative:gamehandler\\modules\\games\\pcgame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\gamehandler\\gamehandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|solutionrelative:gamehandler\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\gamehandler\\gamehandler\\modules\\games\\mobilegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|solutionrelative:gamehandler\\modules\\games\\mobilegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|d:\\progr2\\vs\\csharp-second-semester-tasks\\task4\\gamehandler\\gamehandler\\modules\\games\\consolegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D723B991-5339-4A27-A079-971067F4E0ED}|GameHandler\\GameHandler.csproj|solutionrelative:gamehandler\\modules\\games\\consolegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Program.cs",
+              "RelativeDocumentMoniker": "GameHandler\\Program.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Program.cs",
+              "RelativeToolTip": "GameHandler\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwFwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T23:22:11.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MobileGame.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Modules\\Games\\MobileGame.cs",
+              "RelativeDocumentMoniker": "GameHandler\\Modules\\Games\\MobileGame.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Modules\\Games\\MobileGame.cs",
+              "RelativeToolTip": "GameHandler\\Modules\\Games\\MobileGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:10:23.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PCGame.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Modules\\Games\\PCGame.cs",
+              "RelativeDocumentMoniker": "GameHandler\\Modules\\Games\\PCGame.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Modules\\Games\\PCGame.cs",
+              "RelativeToolTip": "GameHandler\\Modules\\Games\\PCGame.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:10:06.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Core\\Game.cs",
+              "RelativeDocumentMoniker": "GameHandler\\Core\\Game.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Core\\Game.cs*",
+              "RelativeToolTip": "GameHandler\\Core\\Game.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:09:40.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsoleGame.cs",
+              "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Modules\\Games\\ConsoleGame.cs",
+              "RelativeDocumentMoniker": "GameHandler\\Modules\\Games\\ConsoleGame.cs",
+              "ToolTip": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task4\\GameHandler\\GameHandler\\Modules\\Games\\ConsoleGame.cs",
+              "RelativeToolTip": "GameHandler\\Modules\\Games\\ConsoleGame.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:10:46.542Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
