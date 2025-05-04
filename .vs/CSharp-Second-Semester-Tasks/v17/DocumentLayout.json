@@ -3,6 +3,7 @@
   "WorkspaceRootPath": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\Task5\\GameHandler\\GameHandler\\GameHandler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task5\\GameHandler\\GameHandler\\GameHandler.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
@@ -39,6 +40,8 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Task4\\CurrencySequenceHandler\\CurrencySequenceHandler\\Services\\ReversedSentence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+=======
+>>>>>>> HW-5
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSharpTask2.1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,7 +61,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 3,
+=======
+          "SelectedChildIndex": 6,
+>>>>>>> HW-5
           "Children": [
             {
               "$type": "Bookmark",
@@ -73,6 +80,7 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameHandler.csproj",
@@ -185,6 +193,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+>>>>>>> HW-5
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\StudentGrades\\StudentGrades\\Program.cs",
               "RelativeDocumentMoniker": "CSharpTask2.1\\StudentGrades\\StudentGrades\\Program.cs",
@@ -195,7 +211,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 11,
+=======
+              "DocumentIndex": 2,
+>>>>>>> HW-5
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Student.cs",
               "RelativeDocumentMoniker": "CSharpTask2.1\\Student.cs",
@@ -206,7 +226,11 @@
             },
             {
               "$type": "Document",
+<<<<<<< HEAD
               "DocumentIndex": 9,
+=======
+              "DocumentIndex": 0,
+>>>>>>> HW-5
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\progr2\\vs\\CSharp-Second-Semester-Tasks\\CSharpTask2.1\\Program.cs",
               "RelativeDocumentMoniker": "CSharpTask2.1\\Program.cs",

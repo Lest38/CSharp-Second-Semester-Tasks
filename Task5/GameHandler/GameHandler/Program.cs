@@ -9,22 +9,23 @@ namespace GameHandler
     /// </summary>
     public class Program
     {
-        private static PCGame pcGame = new PCGame("PC Game", 1);
-        private static MobileGame mobileGame = new MobileGame("Mobile Game", 2);
-        private static ConsoleGame consoleGame = new ConsoleGame("Console Game", 3);
+        private static Program program = new();
+        private static PCGame pcGame = new("PC Game", 1);
+        private static MobileGame mobileGame = new("Mobile Game", 2);
+        private static ConsoleGame consoleGame = new("Console Game", 3);
 
         /// <summary>
         /// Main method.
         /// </summary>
         public static void Main(string[] args)
         {
-            ShowMenu();
+            program.ShowMenu();
         }
 
         /// <summary>
         /// Displays the main menu.
         /// </summary>
-        private static void ShowMenu()
+        private void ShowMenu()
         {
             while (true)
             {
@@ -47,7 +48,7 @@ namespace GameHandler
                         consoleGame.Start();
                         break;
                     case "4":
-                        UpdatePlayersCountMenu();
+                        program.UpdatePlayersCountMenu();
                         break;
                     case "5":
                         return;
@@ -61,7 +62,7 @@ namespace GameHandler
         /// <summary>
         /// Displays the menu for updating the players count.
         /// </summary>
-        private static void UpdatePlayersCountMenu()
+        private void UpdatePlayersCountMenu()
         {
             Console.WriteLine("1. PC Game");
             Console.WriteLine("2. Mobile Game");
