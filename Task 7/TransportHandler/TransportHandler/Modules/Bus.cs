@@ -11,6 +11,8 @@ namespace TransportHandler.Modules
     /// </summary>
     public class Bus : GroundTransport
     {
+        private readonly int[] seatsPerCar = [10, 20, 30, 40];
+        private readonly int[] TicketPrices = [300, 100];
         /// <summary>
         /// Creates a new instance of the Bus class.
         /// </summary>
@@ -22,8 +24,7 @@ namespace TransportHandler.Modules
         public Bus(int routeNumber, string departure, string destination, int seatPrice, int seatsNum = 50)
             : base(routeNumber, departure, destination, seatPrice)
         {
-            AvailableSeats = seatsNum;
-            TicketPrices = [seatPrice, seatPrice / 2];
+            AvailableSeats = seatsPerCar.Sum();
         }
 
         /// <summary>

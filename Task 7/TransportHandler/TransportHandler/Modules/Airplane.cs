@@ -24,7 +24,7 @@ namespace TransportHandler.Modules
         public string TransportType => "Airplane";
         public int AvailableSeats { get; set; }
 
-        private readonly int[] TicketPrices = { 200, 400, 800 };
+        private readonly int[] TicketPrices = [200, 400, 800];
 
         /// <summary>
         /// Creates a new instance of the Airplane class with specified route number, departure, destination, and available seats.

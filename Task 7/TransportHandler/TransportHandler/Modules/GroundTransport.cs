@@ -11,12 +11,13 @@ namespace TransportHandler.Modules
     /// </summary>
     public abstract class GroundTransport : ITransport
     {
+        private const int SeatTypes = 4;
         public int RouteNumber { get; }
         public string Departure { get; set; }
         public string Destination { get; set; }
         public string TransportType => GetType().Name;
         public virtual int AvailableSeats { get; protected set; }
-        protected int[] TicketPrices = new int[4];
+        protected int[] TicketPrices = new int[SeatTypes];
 
         /// <summary>
         /// Initializes a new instance of the GroundTransport class with specified route number, departure, destination, and seat price.
