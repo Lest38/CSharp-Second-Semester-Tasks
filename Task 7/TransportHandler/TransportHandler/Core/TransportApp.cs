@@ -14,7 +14,7 @@ namespace TransportHandler.Core
     public class TransportApp
     {
         private const int PartsGiven = 5;
-        private const string FilePath = @"D://transport.txt";
+        private readonly string FilePath = Path.Combine(AppContext.BaseDirectory, "transport.txt");
         private readonly List<ITransport> transports = [];
 
         public void Run()
@@ -28,7 +28,8 @@ namespace TransportHandler.Core
         {
             if (!File.Exists(FilePath))
             {
-                AnsiConsole.MarkupLine($"[red]File not found: {FilePath}[/]");
+                File.Create(FilePath).Close();
+                AnsiConsole.MarkupLine($"[yellow]File created at: {FilePath}[/]");
                 return;
             }
 
