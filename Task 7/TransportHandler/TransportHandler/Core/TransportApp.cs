@@ -13,8 +13,9 @@ namespace TransportHandler.Core
     /// </summary>
     public class TransportApp
     {
+        private const int PartsGiven = 5;
         private const string FilePath = @"D://transport.txt";
-        private readonly List<ITransport> transports = new();
+        private readonly List<ITransport> transports = [];
 
         public void Run()
         {
@@ -34,7 +35,7 @@ namespace TransportHandler.Core
             foreach (var line in File.ReadLines(FilePath))
             {
                 var parts = line.Split(' ', StringSplitOptions.RemoveEmptyEntries);
-                if (parts.Length < 5) continue;
+                if (parts.Length < PartsGiven) continue;
 
                 string type = parts[0];
                 int route = int.Parse(parts[1]);
