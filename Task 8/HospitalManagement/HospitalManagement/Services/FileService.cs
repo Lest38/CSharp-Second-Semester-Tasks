@@ -38,10 +38,9 @@ namespace HospitalManagement.Services
         {
             try
             {
-                using (StreamWriter sw = File.AppendText(filePath))
-                {
-                    sw.WriteLine(content);
-                }
+                using StreamWriter sw = File.AppendText(filePath);
+                sw.WriteLine(content);
+            }
             }
             catch (Exception ex)
             {

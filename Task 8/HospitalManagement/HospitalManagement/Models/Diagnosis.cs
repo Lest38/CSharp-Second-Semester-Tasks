@@ -3,13 +3,19 @@
 /// <summary>
 /// Represents a medical diagnosis with treatment duration and department.
 /// </summary>
-public class Diagnosis : ISubject
+/// <remarks>
+/// Initializes a new instance of the <see cref="Diagnosis"/> class with the specified name, treatment duration, and department.
+/// </remarks>
+/// <param name="name"></param>
+/// <param name="duration"></param>
+/// <param name="department"></param>
+public class Diagnosis(string name, int duration, string department) : ISubject
 {
-    public string Name { get; private set; }
-    private int _treatmentDuration;
-    private string _department;
+    public string Name { get; private set; } = name;
+    private int _treatmentDuration = duration;
+    private string _department = department;
     private List<IObserver> _observers = [];
-    public static int fileParts = 3;
+    public static readonly int fileParts = 3;
 
     /// <summary>
     /// Gets or sets the treatment duration in days.

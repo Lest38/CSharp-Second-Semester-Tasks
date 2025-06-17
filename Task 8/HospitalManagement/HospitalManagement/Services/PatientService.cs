@@ -12,7 +12,7 @@ namespace HospitalManagement.Services
     /// </summary>
     public class PatientService
     {
-        private FileService _fileService;
+        private readonly FileService _fileService;
 
         /// <summary>
         /// Reads patient data from a file and populates the provided list of patients.
