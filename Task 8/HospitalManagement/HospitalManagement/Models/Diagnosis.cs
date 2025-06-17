@@ -49,20 +49,6 @@ public class Diagnosis(string name, int duration, string department) : ISubject
         }
     }
 
-    /// <summary>
-    /// Initializes a new instance of the <see cref="Diagnosis"/> class with the specified name, treatment duration, and department.
-    /// </summary>
-    /// <param name="name"></param>
-    /// <param name="duration"></param>
-    /// <param name="department"></param>
-    public Diagnosis(string name, int duration, string department)
-    {
-        Name = name;
-        _treatmentDuration = duration;
-        _department = department;
-    }
-
-    /// <summary>
     /// Registers an observer to be notified of changes in the diagnosis.
     /// </summary>
     /// <param name="observer"></param>

@@ -41,7 +41,6 @@ namespace HospitalManagement.Services
                 using StreamWriter sw = File.AppendText(filePath);
                 sw.WriteLine(content);
             }
-            }
             catch (Exception ex)
             {
                 Console.WriteLine($"Error writing to file: {ex.Message}");
